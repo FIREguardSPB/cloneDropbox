@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://FIREguardSPB:Ant_260671520032@cluster0.lqiik.mongodb.net/storage?retryWrites=true&w=majority",
+  "secretKey": "FIREguardSPB",
+  "filePath": "/home/anton/Documents/Elbrus/PORTFOLIO/MyStorageApp/server/files"
+}
