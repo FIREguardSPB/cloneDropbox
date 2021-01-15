@@ -12,7 +12,7 @@ const Popup = () => {
     console.log(`здесь лежит ${currentDir}`)
     useEffect(() => {
         dispatch(getFiles(currentDir))
-    }, [])
+    }, [currentDir])
 
     function createDirHandler() {
         dispatch(createDir(currentDir, "1111ddiiii777ejkjkjkjkjeejkf4eee44"))
