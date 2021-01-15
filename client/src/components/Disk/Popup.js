@@ -15,7 +15,7 @@ const Popup = () => {
     }, [currentDir])
 
     function createDirHandler() {
-        dispatch(createDir(currentDir, "1111ddiiii777ejkjkjkjkjeejkf4eee44"))
+        dispatch(createDir(currentDir, dirName))
     }
     return (
         <div className="popup">

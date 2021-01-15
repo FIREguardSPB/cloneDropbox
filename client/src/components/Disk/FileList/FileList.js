@@ -3,7 +3,7 @@ import {useSelector} from "react-redux";
 import File from "./File/File";
 
 const FileList = () => {
-    const files = useSelector(state => state.file.files).map(file => <File/>);
+    const files = useSelector(state => state.file.files).map(file => <File key={file._id} file={file} />);
     return (
         <div className="filelist">
             <div className="filelist_header">
