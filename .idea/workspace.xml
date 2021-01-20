@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="975775ca-c828-4dcd-bbd1-27fd5b0b887e" name="Default Changelist" comment="3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Disk/Disk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Disk/Disk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Disk/FileList/File/File.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Disk/FileList/File/File.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/fileReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/fileReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wolf_lection" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.27619982" />
@@ -65,7 +69,11 @@
       <workItem from="1610609263149" duration="1609000" />
       <workItem from="1610611028879" duration="259000" />
       <workItem from="1610611352872" duration="3978000" />
-      <workItem from="1610701822490" duration="4343000" />
+      <workItem from="1610701822490" duration="5983000" />
+      <workItem from="1610952142117" duration="89000" />
+      <workItem from="1610952234905" duration="2170000" />
+      <workItem from="1610960052980" duration="3489000" />
+      <workItem from="1611142781381" duration="1846000" />
     </task>
     <task id="LOCAL-00001" summary="3">
       <created>1610699904408</created>
